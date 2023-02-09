@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20230208</CreaDate><CreaTime>16354800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\program files (x86)\arcgis\desktop10.4\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteField" Date="20230208" Time="163548">DeleteField ShaanXi adcode;name;center;centroid;childrenNu;parent;subFeature;acroutes</Process><Process ToolSource="d:\program files (x86)\arcgis\desktop10.4\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20230208" Time="163637">CalculateField ShaanXi id !FID!+1
+ PYTHON_9.3 #</Process></lineage></DataProperties></Esri></metadata>
